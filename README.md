@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ambrish
 
-**I'm an aspiring AI Engineer and Data Analyst, passionate about using AI to solve complex business problems.** I recently completed my MSc in Business Analytics at Queen's University Belfast.
+**I'm an aspiring AI Data Engineer and Data Analyst, passionate about using AI to solve complex business problems.** I recently completed my MSc in Business Analytics at Queen's University Belfast.
 
 <br/>
 
